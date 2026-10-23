@@ -1,0 +1,23 @@
+[server]
+headless = true
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#40589E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F5F9"
+textColor = "#18243B"
+font = "sans serif"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "medium"
+borderColor = "#DCE2ED"
+dataframeHeaderBackgroundColor = "#EFDB59"
+dataframeHeaderTextColor = "#40589E"
+dataframeBorderColor = "#40589E"
+paddingTop = "1rem"
+chartCategoricalColors = ["#E8CF36", "#596DC5", "#538770"]

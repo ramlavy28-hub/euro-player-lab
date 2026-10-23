@@ -1,0 +1,162 @@
+{
+  "source": "Hudl StatsBomb Open Data",
+  "competition": 53,
+  "season": 315,
+  "files": [
+    {
+      "match_id": 3998836,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998836.json",
+      "sha256": "8f87e007497a193bbfab92c85003e7e3b0d11afd64fce76f5918117e83cd2672"
+    },
+    {
+      "match_id": 3998837,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998837.json",
+      "sha256": "948e4d001ff63fa1054d4edf879b9430adbf6768337b939f75d42fcfbb6736f5"
+    },
+    {
+      "match_id": 3998838,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998838.json",
+      "sha256": "1b138409d4ac333b7b5c28cbeb3f3cde48cbb73c1e88bde7a9d28a8bae7407b7"
+    },
+    {
+      "match_id": 3998839,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998839.json",
+      "sha256": "bc790eabbe12623ea13a511c4e0f0d9d3405c01bea7fc939762cf19597ca0b47"
+    },
+    {
+      "match_id": 3998840,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998840.json",
+      "sha256": "c35c90807779cfdd493e70bee61d4da75d782a137b8c2d2cec4d5642033e5b79"
+    },
+    {
+      "match_id": 3998841,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998841.json",
+      "sha256": "ec88033970fe6c4df25b4aee4388d488e26c8dc68656450a2a15a19baba20c56"
+    },
+    {
+      "match_id": 3998842,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998842.json",
+      "sha256": "3a6ec619e7a8fa318484388d21ce4d30b4b2963fef11b29ab280bc36854c4504"
+    },
+    {
+      "match_id": 3998843,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998843.json",
+      "sha256": "adb79dcffea00c4493093fd79c37295e3477c5f3adc0b66f8d7a7f8be5f87079"
+    },
+    {
+      "match_id": 3998844,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998844.json",
+      "sha256": "7db50a7496fc7ce076232b3fbc8e933151877376a9f1a7a83693ad44ae870495"
+    },
+    {
+      "match_id": 3998845,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998845.json",
+      "sha256": "bc5c9479a018ada2a605562b7f7ca71a0bd3495c623b3b10d80bea07f2d6a8e9"
+    },
+    {
+      "match_id": 3998846,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998846.json",
+      "sha256": "faa0124d02c2882a197a790ee125d9aa09426a880c35cca5b4b1413334079084"
+    },
+    {
+      "match_id": 3998847,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998847.json",
+      "sha256": "2f50a5dbd97526ad2d90398825b5ece5f243ba405422fb229627e466d455ad7a"
+    },
+    {
+      "match_id": 3998848,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998848.json",
+      "sha256": "59aad5533498414923c8590664ba08cff991fb1b40e47c0eaec3c2986a78fae2"
+    },
+    {
+      "match_id": 3998849,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998849.json",
+      "sha256": "04c7cf138832fb6a3331d48e636184459004309829424e294adff22261258ad5"
+    },
+    {
+      "match_id": 3998850,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998850.json",
+      "sha256": "35092f2b3ad5aa6450891a485c0c3e0e5e85ec9bdc54ece22dbecef53e9c00fb"
+    },
+    {
+      "match_id": 3998851,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998851.json",
+      "sha256": "59904daebcca2a4d88248694af1557480efbf21f568bb62d4e2d9a741c1f8179"
+    },
+    {
+      "match_id": 3998852,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998852.json",
+      "sha256": "7c2792b35518618be4a4f264e3e5e41ece71a209cbc171bd0eaac77783cdec7f"
+    },
+    {
+      "match_id": 3998853,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998853.json",
+      "sha256": "312f45ceece391e210e21c9b3e70b7378489e787ccfdb0140fdfa70d9e74e442"
+    },
+    {
+      "match_id": 3998854,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998854.json",
+      "sha256": "a827f18aa89fda6b23913139c2d0c13908a5be806b8abbd5d8e7a004165bbff8"
+    },
+    {
+      "match_id": 3998855,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998855.json",
+      "sha256": "5867e0282db9e77b90117c5a7feb569afd10894511f77fe34d007471b1c847a5"
+    },
+    {
+      "match_id": 3998856,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998856.json",
+      "sha256": "83bf7db3ce8446ceb5e727e97ced81c8ff05bb000136e917337a22a931952f15"
+    },
+    {
+      "match_id": 3998857,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998857.json",
+      "sha256": "4bd6fcebdcb30b4e0fc5b98d3bdaa979ed291af638bdb8c63087f4b8176d2d92"
+    },
+    {
+      "match_id": 3998858,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998858.json",
+      "sha256": "4fee5a48d230abf8be27323b6634c36ebc3d81f73c3b1cb0deee26f5adec0bfb"
+    },
+    {
+      "match_id": 3998859,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3998859.json",
+      "sha256": "4930883715827f560f475a9488c6a9ab877d82d2adf1fa20efa102ca84af7cf0"
+    },
+    {
+      "match_id": 4018354,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/4018354.json",
+      "sha256": "a1a5d215161a1fd75b9ae023da7a3d3ee7877a477a33f52c59efb2fd69581784"
+    },
+    {
+      "match_id": 4018355,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/4018355.json",
+      "sha256": "b5d1f892d9515d8641691760f8ccdcef630cd27f1a8a54ef5e59ce691623c837"
+    },
+    {
+      "match_id": 4018356,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/4018356.json",
+      "sha256": "76e36e16141a7b15bdde9c52cc0fa870a3ac4480473fd4b39b54fc4f92d31029"
+    },
+    {
+      "match_id": 4018357,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/4018357.json",
+      "sha256": "fb7525172b54828e67e7f17299eaad4e5a4811583f057c345c36dffc4915bf9c"
+    },
+    {
+      "match_id": 4020005,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/4020005.json",
+      "sha256": "1cbbb16225dee6e69af8ae3bd4e3d1a4c04c53cf0d99a70e8e9ad81347312429"
+    },
+    {
+      "match_id": 4020077,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/4020077.json",
+      "sha256": "daecd2a565496937a8151754d7bd4095083e432a9b6fde51ddd7b4570e4f6049"
+    },
+    {
+      "match_id": 4020846,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/4020846.json",
+      "sha256": "6e108f40ffe4d1cb99ced7600ab3bd85b38b58e642cb643c264b28515319b976"
+    }
+  ]
+}
